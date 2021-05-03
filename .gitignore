@@ -1,0 +1,7 @@
+data/
+Logs/
+Models/
+INFO.md
+Skin_cancer_detection.html
+.DS_Store
+.ipynb_checkpoints/
